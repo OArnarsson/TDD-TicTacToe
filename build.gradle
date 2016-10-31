@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 archivesBaseName = 'TTT'
 
-mainClassName = 'ttt.tttWeb'
+mainClassName = 'ttt.Console'
 
 repositories {
     jcenter()
